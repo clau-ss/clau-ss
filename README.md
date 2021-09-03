@@ -4,5 +4,5 @@
 
 - 🌱 Estudando atualmente .NET/C#
 - 📚 Cursando Engenharia da Computação
-- 📫 Contacte-me no e-mail: claudio.ssjr19@gmail.com
+- 📫 Email para contato: claudio.ssjr19@gmail.com
 
